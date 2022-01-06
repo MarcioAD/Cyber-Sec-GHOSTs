@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7916549ff34f3b142b79d1f2594db399, type: 3}
+  m_Name: Starting Room
+  m_EditorClassIdentifier: 
+  description: "Est\xE1 sala \xE9 um indrotu\xE7\xE3o dos sistemas de ciberseguran\xE7a,
+    aplicadas ao mundo atual"
+  roomName: Starting room
