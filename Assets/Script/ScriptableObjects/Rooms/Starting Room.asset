@@ -15,3 +15,7 @@ MonoBehaviour:
   description: "Est\xE1 sala \xE9 um indrotu\xE7\xE3o dos sistemas de ciberseguran\xE7a,
     aplicadas ao mundo atual"
   roomName: Starting room
+  exits:
+  - keyString: "Sa\xEDda Liberada"
+    exitDescrption: "Voc\xEA completou o primeiro des\xE1fio!"
+    valueRoom: {fileID: 11400000, guid: 6cae63dcd232e934babbc4600767b74e, type: 2}
